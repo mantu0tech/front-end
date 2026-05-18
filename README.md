@@ -1,4 +1,4 @@
-# GPT3 Website
+# GPT3 Website and deploy using the Github actions 
 
 #### Live Project🎉
 - [**GitHub** - https://nkilm.github.io/openai-gpt3](https://nkilm.github.io/openai-gpt3/)
